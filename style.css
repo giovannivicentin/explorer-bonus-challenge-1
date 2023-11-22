@@ -58,9 +58,10 @@ footer a + a {
 }
 
 footer img {
-  margin-top: 42px;
+  height: auto;
   width: 100%;
-  position: absolute;
+  margin-top: 42px;
+  position: relative;
   bottom: 0;
   left: 0;
 }
